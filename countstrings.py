@@ -5,5 +5,5 @@ final_result = word.count(letter)
 if letter in word:
   print(f'há {final_result} ocorrência(s) desse caractere')
 else:
-  print("Não há essa caractere")
+  print("Não há esse(s) caractere(s)")
 
