@@ -1,10 +1,11 @@
-#Pythônico 
+
+
+#Usando método sort()
 numbers = [1, 4, 8 ,0, 10, 20]
 numbers.sort()
 print(numbers)
 
-#Não Pythônico
-
+#Usando For encadeados mais if 
 numbers = [1, 4, 8 ,0, 10, 20]
 for i in range(len(numbers)): 
   for j in range(i):
